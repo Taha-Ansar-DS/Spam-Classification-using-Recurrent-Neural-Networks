@@ -25,10 +25,10 @@ With the rapid growth of digital communication, users are increasingly exposed t
 -Number of Records: 5,572 SMS messages
 
 -Features:
- --Message: Raw text data used for Natural Language Processing and model training.
+  --Message: Raw text data used for Natural Language Processing and model training.
 
 -Target Variable:
- --Category: Binary classification label indicating spam or legitimate (ham) messages.
+  --Category: Binary classification label indicating spam or legitimate (ham) messages.
 
 The dataset is highly suitable for NLP-based classification tasks and demonstrates real-world challenges such as unstructured text, class imbalance, and linguistic variability.
 
