@@ -26,6 +26,7 @@ With the rapid growth of digital communication, users are increasingly exposed t
 
 -Features:
  --Message: Raw text data used for Natural Language Processing and model training.
+
 -Target Variable:
  --Category: Binary classification label indicating spam or legitimate (ham) messages.
 
