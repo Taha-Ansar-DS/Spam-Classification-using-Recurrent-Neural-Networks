@@ -21,7 +21,9 @@ With the rapid growth of digital communication, users are increasingly exposed t
 
 ## 📂 Dataset
 -Source: Public SMS Spam Collection dataset available on Kaggle and originally from the UCI Machine Learning Repository.
+
 -Number of Records: 5,572 SMS messages
+
 -Features:
  --Message: Raw text data used for Natural Language Processing and model training.
 -Target Variable:
