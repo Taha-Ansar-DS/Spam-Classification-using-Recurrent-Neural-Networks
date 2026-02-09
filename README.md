@@ -16,6 +16,7 @@ Key Features:
 
 ## 🧠 Problem Statement
 With the rapid growth of digital communication, users are increasingly exposed to unwanted spam messages that can lead to misinformation, fraud, and reduced productivity. Manually filtering such messages is inefficient and impractical due to the large volume of data generated daily. Therefore, there is a need for an automated system that can accurately identify and filter spam messages from legitimate communication using machine learning and Natural Language Processing (NLP) techniques.
+
 ---
 
 ## 📂 Dataset
