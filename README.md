@@ -61,16 +61,16 @@ The following models were trained and evaluated on the SMS Spam dataset using st
 
 | Model | Accuracy | F1 Score |
 |------|----------|----------|
-| Logistic Regression | 96% | 0.96 |
-| Random Forest | 97% | 0.97 |
-| RNN (Deep Learning Model) | 96% | 0.96 |
+| Logistic Regression | 95% | 0.95 |
+| Random Forest | 91% | 0.91 |
+| RNN (Deep Learning Model) | 89% | 0.89 |
 
 **Evaluation Metrics Used:**
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-
+- Accuracy: 95.24663677130046
+- Precision: 91.82831776594726
+- Recall: 86.67269906928645
+- F1 Score: 89.00813764240874
+  
 ---
 
 ## ▶️ How to Run the Project
